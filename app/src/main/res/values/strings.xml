@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">androidStudyNotes</string>
+    <string name="app_name">安卓笔记</string>
+    <string name="title_activity_eventbus">EventbusActivity</string>
 </resources>
