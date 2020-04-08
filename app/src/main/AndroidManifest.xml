@@ -18,6 +18,9 @@
         <activity
             android:name=".eventbus.EventbusActivity"
             android:screenOrientation="portrait"/>
+        <activity
+            android:name=".eventbus.EventbusNextActivity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>
